@@ -1,5 +1,4 @@
-id  name    father  initial_value
-1   Ativos	0	0
+1	Ativos	0	0
 2	Ativo Circulante	1	0
 3	Empréstimos a funcionários	2	0
 4	Estoque	2	0
